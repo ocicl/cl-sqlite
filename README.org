@@ -1,0 +1,9 @@
+* cl-sqlite
+
+CL-SQLITE package is an interface to the SQLite embedded relational database engine.
+
+|---------+---------------------------------------------------------------------------|
+| source  | file:https://github.com/TeMPOraL/cl-sqlite/archive/refs/tags/0.2.1.tar.gz |
+| version | 0.2.1                                                                     |
+| systems | sqlite                                                                    |
+|---------+---------------------------------------------------------------------------|
